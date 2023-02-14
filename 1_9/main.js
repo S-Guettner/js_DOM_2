@@ -14,7 +14,7 @@ farbeAuswahlen.addEventListener('change', (e) => {
 })
 
 
-button.addEventListener('click', (e) => {
+button.addEventListener('click', () => {
     
 
     selectedChildElement.remove()
